@@ -1,2 +1,1 @@
-# music-school-nextjs
-music school nextjs
+A music school project in NextJS
